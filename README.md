@@ -10,7 +10,7 @@ I take ambiguous business problems and turn them into reliable, scalable softwar
 [![Email](https://img.shields.io/badge/Email-solanomarkjones@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:solanomarkjones@gmail.com)
 
 <p align="center">
-  <img src="public/img/mjs.jpg" alt="Mark Jones Solano" width="200" style="border-radius: 8px;" />
+  <img src="/mjs.jpg" alt="Mark Jones Solano" width="200" style="border-radius: 8px;" />
 </p>
 
 ---
