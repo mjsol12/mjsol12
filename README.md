@@ -117,17 +117,6 @@ Built and supported production Angular/Node.js systems for education, local busi
 
 ---
 
-## This Repository
-
-Personal portfolio site — React, TypeScript, styled-components. Project showcases, experience, about page, theme toggle, embedded resume viewer.
-
-```bash
-npm install && npm start          # dev → http://localhost:3000
-npm run build && npm run serve:prod  # prod → http://localhost:3040
-```
-
----
-
 <p align="center">
   © Mark Jones Solano · Senior Full-Stack Software Engineer
 </p>
