@@ -9,10 +9,6 @@ I take ambiguous business problems and turn them into reliable, scalable softwar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mark%20Jones%20Solano-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/mark-jones-solano-b17624147)
 [![Email](https://img.shields.io/badge/Email-solanomarkjones@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:solanomarkjones@gmail.com)
 
-<p align="center">
-  <img src="/mjs.jpg" alt="Mark Jones Solano" width="200" style="border-radius: 8px;" />
-</p>
-
 ---
 
 ## About
